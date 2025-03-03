@@ -6,7 +6,7 @@ This repository is for converting datasets in `.gdf` format to `.mat` format. Th
 ```
 eeglab
 ```
- - Choose File>Import Data>Using EEGLAB>From GDF files, and follow the on-screen instructions to download SigLab
+ - Choose File>Import Data>Using EEGLAB>From GDF files, and follow the on-screen instructions to download `SigLab`
  - Run gdf_to_mat.m
 
 You can download the dataset along with its description from <a href="https://www.bbci.de/competition/iv/download/index.html?agree=yes&submit=Submit">here</a>
