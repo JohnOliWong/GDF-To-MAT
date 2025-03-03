@@ -1,10 +1,8 @@
 # GDF-To-MAT
 This repository is for converting datasets in `.gdf` format to `.mat` format. The data acquisition part is tailored for the 2b dataset of the $4^{th}$ International Brain-Computer Interface Competition(BCI4-IIb).
 ## Installation
- - Install MATLAB (of course)
  - Install <a href="https://sccn.ucsd.edu/eeglab/download.php">EEGLab</a>
- - Navigate to the folder where the downloaded zip file is extracted
- - In MATLAB's terminal, enter
+ - In MATLAB, navigate to the folder where the downloaded zip file is extracted, and enter this command line in MATLAB's command prompt
 ```
 eeglab
 ```
